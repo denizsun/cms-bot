@@ -1822,3 +1822,36 @@ jlidrych:
 - RecoLocalTracker/SubCollectionProducers
 lenzip:
 - PhysicsTools/NanoAODTools
+denizsun:
+- CondCore/HcalPlugins
+- CondFormats/HcalMapping
+- CondFormats/HcalObjects
+- CalibCalorimetry/HcalAlgos
+- CalibCalorimetry/HcalPlugins
+- CalibCalorimetry/HcalTPGAlgos
+- CalibCalorimetry/HcalTPGEventSetup
+- CalibCalorimetry/HcalTPGIO
+- CalibFormats/HcalObjects
+- DQM/HcalCommon
+- DQM/HcalMonitorClient
+- DQM/HcalMonitorModule
+- DQM/HcalMonitorTasks
+- DQM/HcalTasks
+- DQMOffline/Hcal
+- DataFormats/HcalCalibObjects
+- DataFormats/HcalDetId
+- DataFormats/HcalDigi
+- DataFormats/HcalRecHit
+- EventFilter/HcalRawToDigi
+- RecoLocalCalo/HcalLaserReco
+- RecoLocalCalo/HcalRecAlgos
+- RecoLocalCalo/HcalRecProducers
+- SimCalorimetry/HcalSimAlgos
+- SimCalorimetry/HcalSimProducers
+- SimCalorimetry/HcalTrigPrimAlgos
+- SimCalorimetry/HcalTrigPrimProducers
+- SimCalorimetry/HcalZeroSuppressionProducers
+- Validation/HcalDigis
+- Validation/HcalHits
+- Validation/HcalRecHits
+- Validation/CaloTowers
